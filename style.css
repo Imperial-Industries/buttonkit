@@ -1,4 +1,4 @@
-.btn {
+#default {
   border-radius: 2px;
   border: 1px solid;
   color:#40A4F4;
@@ -11,10 +11,12 @@
 #default-important {
   font-weight: bold;
   border: none;
-  border-radius: 14px;
+  border-radius: 2px;
   color: #405b59;
   background-color:#98b7b6;
-  padding: 6px 5px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 8px 24px;
   font-align: center;
   display: inline-block;
+  box-shadow:0 4px 6px;
 }
