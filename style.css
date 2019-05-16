@@ -1,6 +1,5 @@
 #primary {
   border-radius: 2px;
-  border:1px solid;
   color:#707070;
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
@@ -11,7 +10,6 @@
 }
 #secondary {
   border-radius: 2px;
-  border: 1px solid;
   color:#40A4F4;
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
