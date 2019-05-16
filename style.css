@@ -1,5 +1,16 @@
 #primary {
   border-radius: 2px;
+  border:1px solid;
+  color:#707070;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  padding: 8px 24px;
+  box-shadow:0 4px 6px;
+  background-color:#40A4F4;
+}
+#secondary {
+  border-radius: 2px;
   border: 1px solid;
   color:#40A4F4;
   cursor: pointer;
