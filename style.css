@@ -11,6 +11,7 @@
 #default-important {
   font-weight: bold;
   border: none;
+  border-radius: 14px;
   color: #405b59;
   background-color:#98b7b6;
   padding: 6px 5px;
