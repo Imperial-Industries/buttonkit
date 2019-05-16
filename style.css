@@ -78,3 +78,16 @@
   font-align: center;
   display: inline-block;
   box-shadow:0 4px 6px 0 hsla(0, 0%, 100%, 1);
+}
+#ui-mode-change-dark{
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  color: #c687aa;
+  background-color:#560130;
+  font-family: 'Open Sans', sans-serif;
+  padding: 8px 24px;
+  font-align: center;
+  display: inline-block;
+  box-shadow:0 4px 6px;
+}
