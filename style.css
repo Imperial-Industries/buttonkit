@@ -20,6 +20,16 @@
   font-weight:bold;
   background-color:rgba(255, 255, 255, 0);
 }
+#tertiary {
+  border: none;
+  color:#40A4F4;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  padding: 8px 24px;
+  font-weight:bold;
+  background-color:rgba(255, 255, 255, 0);
+}
 #success {
   font-weight:bold;
   border:none;
