@@ -43,6 +43,18 @@
   display: inline-block;
   box-shadow:0 4px 6px;
 }
+#warning{
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  color: #efd24f;
+  background-color:#dfea10;
+  font-family: 'Open Sans', sans-serif;
+  padding: 8px 24px;
+  font-align: center;
+  display: inline-block;
+  box-shadow:0 4px 6px;
+}
 #info {
   font-weight: bold;
   border: none;
