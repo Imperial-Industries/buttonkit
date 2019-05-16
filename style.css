@@ -1,0 +1,18 @@
+.btn {
+  border-radius: 2px;
+  border: 1px solid;
+  color:#40A4F4;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  padding: 8px 24px;
+  box-shadow:0 4px 6px;
+}
+#default-important {
+  font-weight: bold;
+  border: 0px;
+  font-color: #405b59;
+  background-color:#2b3a39;
+  padding: 6px 5px;
+  border-top:6px solid #1777c4;
+}
