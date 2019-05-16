@@ -10,12 +10,11 @@
 }
 #default-important {
   font-weight: bold;
-  border: 0px;
-  font-color: #405b59;
+  border: none;
+  color: #405b59;
   background-color:#668e8c;
   padding: 6px 5px;
   border-top:6px solid #1777c4;
   font-align: center;
-  width:10px;
-  height:5px;
+  display: inline-block;
 }
