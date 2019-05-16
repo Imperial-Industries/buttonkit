@@ -67,3 +67,14 @@
   display: inline-block;
   box-shadow:0 4px 6px;
 }
+#ui-mode-change-light {
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  color: #3c665e;
+  background-color:#acf9ec;
+  font-family: 'Open Sans', sans-serif;
+  padding: 8px 24px;
+  font-align: center;
+  display: inline-block;
+  box-shadow:0 4px 6px 0 hsla(0, 0%, 100%, 1);
